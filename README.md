@@ -1,12 +1,12 @@
 # Data-Analytics-with-PostgreSQL
 Netflix content analysis using PostgreSQL, showcasing SQL, data exploration, aggregation, window functions, and business reporting.
 
-##General Overview
-![]()
+## General Overview
+![](https://github.com/k-sahaj/Data-Analytics-with-PostgreSQL/blob/main/png/Types_of_SQL_projects.png)
 In this section, i will focus on the third part that is data analytics using SQL. 
 
 
-![](https://github.com/najirh/netflix_sql_project/blob/main/logo.pn)
+![](https://github.com/k-sahaj/Data-Analytics-with-PostgreSQL/blob/main/png/logo.png)
 
 ## Overview
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
@@ -252,5 +252,4 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 ## Author - Sahaj K.
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. 
-
-
+![](https://github.com/k-sahaj/Data-Analytics-with-PostgreSQL/blob/main/png/PostgreSQL_interface.png)
